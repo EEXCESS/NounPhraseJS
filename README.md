@@ -1,5 +1,5 @@
 # NounPhraseJS
-Noun phrase detection in JavaScript using neural nets with convnetjs. Part of my bachelor thesis.
+Noun phrase detection in JavaScript using neural nets with convnetjs.
 
 It uses deep neural networks inspired by the paper:
 "A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning" by R. Colobert and J.Weston.
